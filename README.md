@@ -1,6 +1,6 @@
 ### Hola 👋
 
-**andersonpava/andersonpava** Guío a Pymes e instituciones en esta enorme autopista que llamamos marketing digital.
+Guío a Pymes e instituciones en esta enorme autopista que llamamos marketing digital.
 
 - 🤔 ¿Cuál es la estrategia más adecuada para tu servicio y/o producto?
 - 💬 Pregúntame por Inbound Marketing ...
