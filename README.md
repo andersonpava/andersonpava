@@ -8,3 +8,8 @@ Guío a Pymes e instituciones en esta enorme autopista que llamamos marketing di
 - 😄 SEO - Posicionamiento en motores de búsqueda
 - ⚡ SEM - Campañas de anuncios en motores de búsqueda
 - 🌱 Free mind
+
+
+[<img align="left" alt="Anderson Pava | Linkedin" width="22px" src="./linkedin.svg" />][Linkedin]
+
+[linkedin]: https://linkedin/andersonpava
